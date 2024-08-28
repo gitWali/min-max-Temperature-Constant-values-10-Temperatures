@@ -1,0 +1,1 @@
+# min-max-Temperature-Constant-values-10-Temperatures
